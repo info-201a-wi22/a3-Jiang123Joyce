@@ -1,0 +1,33 @@
+# Introduction
+The variables that I chose are the jail population and the sex ratio of jail population of randomly five states, and compare the data in 2000 with the data in 2018 (which I choose randomly). The reason that I chose these variables is because I want to find out is the jail population increasing? And is it men who commit more crimes or women who commit more crimes? What are the possible reasons could be? 
+
+## Variable Descriptions
+
+### _Jail Population_
+"Total jail population is defined as the ​average daily​ number of people held in jail through December 31 of a given year.1 Jail population estimates are disaggregated by race and gender, as well as by jurisdiction."
+
+# Summary Information
+- Is the male Jail population higher or the female Jail population higher in both 2000 and 2018.
+The *male* jail population is always higher that the female jail population in both year and all of the five states that I randomly chose. 
+
+- Which state had the highest jail population in 2000 among the five randomly chosen states, and which state had the lowest?
+*CA* had the highest jail population in 2000 among the five randomly chosen states, and the number is _*75828.78*_, while *DC* had the lowest population, the number is _*1560*_.
+
+- Which state had the highest jail population in 2018 among the five randomly chosen states, and which state had the lowest?
+*CA* had the highest jail population in 2000 among the five randomly chosen states, and the number is _*76339*_, and *DC* had the lowest population, the number is _*2063*_, which are the *SAME* two states that had highest and lowest in 2000.
+
+- what is the highest number of female jail population, and the highest number of male population in 2000, what about in 2018?
+The highest number of female jail population is *10262.69*, and the highest number of male population is *66200.84*, in 2018, the highest number of female jail population is *10022*, and the highest number of male jail population is *65668*.
+
+- What is the mean of the total jail population in 2000, and what is the mean of the total jail population in 2018?
+The mean of the total jail population in 2000 is *32799.96*, in 2018, the mean of the jail population is *38377.8*, compare these two numbers, 2018 has the higher mean of total jail population.
+# The reason to inclued each chart
+
+## The First Chart
+I use the first chart to show the total jail population of the randomly chosen five states in 2000 and 2018, and this chart can show the total population has increased for most of five states from 2000 to 2018, which answered one of my questions that listed in the introduction part.
+
+## The Second Chart
+For the second chart, I compared the number of jail population between female and male among the five states, and the chart showed males always have larger number of jail population that females do, from the bar chart, you can see that very clearly. This part also answered another question that I mentioned in the introduction part. 
+
+## The Third Chart
+I have troubles to make the third chart, the only things that I can do is make the U.S. map, but I don't know how to add datas to the map.
